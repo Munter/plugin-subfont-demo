@@ -1,0 +1,24 @@
+body {
+  background: #636;
+  color: #fff;
+  font-family: sans-serif;
+  white-space: nowrap;
+}
+
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+a {
+  color: orange;
+}
+
+h1 {
+  font-family: "Tangerine", sans-serif;
+  font-size: 2000%;
+  margin: 0;
+}
