@@ -1,3 +1,6 @@
 [build]
   command = "rm -rf dist && cp -r src dist"
   publish = "dist"
+
+[[plugins]]
+package = "netlify-plugin-subfont"
